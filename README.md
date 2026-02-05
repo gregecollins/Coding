@@ -1,2 +1,2 @@
-# Coding
+# QuantGEC
 Coding Projects
